@@ -12,7 +12,7 @@ new_data = []
 
 for a in range(len(company_names)):
      name = company_names[a]
-     if (company_links[a] == "not-found'"):
+     if (company_links[a] == "not_found"):
           i = 0
           list_names = []
           print (name + "\n")
