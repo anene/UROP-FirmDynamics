@@ -23,16 +23,15 @@ for a in range(len(company_names)):
 
           user_input = input("Enter link number:")
           if (user_input == 'n'):
-               #company_links[a] = "not_found'"
-               new_data.append([name, "not_found"])
+               new_data.append([name, "not_found-1"])
           elif(user_input == 'q'):
-               #company_links[a] = "not-found"
                for x in range(a, len(company_names)):
                     new_data.append([company_names[x], "not_found"])
                break
+          elif(user_input == 'k'):
+               new_data.append([name, "not-needed"])
           else:
                new_data.append([name, list_names[int(user_input)]])
-               #company_links[a] = list_names[int(user_input)]
      else:
           new_data.append([name, company_links[a]])
 
