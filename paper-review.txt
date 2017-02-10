@@ -1,0 +1,68 @@
+paper:
+
+abstract
+- its a bit unclear in some parts
+    - i.e. When Russia seizes foreign assets, this is in part due to lower interest rates on the assets of retirees. (not sure about the relevance here or fully understand the meaning of this)
+    - “We find that older currently living Russian generations are hurt the most by the”
+        - is there some statistic to show this possibly?
+
+Introduction
+- second paragraph, first sentence:  
+    - “Motivated these events” - grammar
+    -  “…possible: forcing Russia into a
+    - long-term state of autarky” - sounds awkward
+- second paragraph can be condensed
+    - just need the sentence on that it is an upper bound
+- third paragraph
+    - the model is kind of unclear 
+        - optimizing agents?
+        - awk sentence:  “Countries trade, produce, invest, and go into debt”
+    - ending of the paragraph is confusing
+    - also the model’s appropriateness for this situation isn’t explained
+- fourth paragraph
+    - more details on the severe scenario?
+- final paragraph
+    - id make it more formal, and just state what the model says rather than the leading question
+
+Literature Review
+- the explanation of sanctions is well done
+    - possible specific examples might clarify the cases you talk about (how boycotts may not be effective)
+    - “ Allowing for these deviations comes at a signficiant cost, as markets in the model no longer clear in general”
+        - awk sentence 
+- overall the literature review is easy to read and follow
+
+Demographics
+- it may be valuable to create a chart in the appendix or in this section of what all the model includes (instead of sentences)
+- “ Agents of an age-skil group” - typo
+
+household sector
+- overall the explanations are concise and to the point
+- one question: why are bequests distributed evenly among an age class
+    - are there no family units in this model?
+
+production sector
+- to make it more formal, probably remove the question: “why include energy”
+    - and just straight of the bat explain why it is a central part of the model
+
+revenues
+- i don’t understand how the ceiling on taxable wages is a %>100.
+    -  is this the maximum income bracket’s tax?
+    - maybe it could be explained more
+ 
+solution algorithm
+- i think this section could be simplified and concise
+    - or the algorithm could be described more procedurally (list format?)
+
+calibration section
+- covers necessary details
+- good data charts, not many fixes i see here
+
+results
+- overall, pretty logical to follow
+- only comment is to avoid using leading q’s, but rather just state
+
+conclusion
+- some typos in paragraph 3 (“conditional on what to extent”
+- maybe include a few significant statistics in this section
+
+
